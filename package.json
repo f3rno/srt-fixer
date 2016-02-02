@@ -1,0 +1,15 @@
+{
+  "name": "srt-fixer",
+  "description": "",
+  "author": "Cris Mihalache <cris@spectrumcoding.com>",
+  "version": "0.0.1",
+  "private": true,
+  "engine": "node >= 0.10.12",
+  "main": "src/main.coffee",
+  "dependencies": {
+    "subtitles-parser": "0.0.2",
+    "lodash": "~2.4.1",
+    "spew": "~0.1.1",
+    "underscore.string": "~2.3.3"
+  }
+}
