@@ -8,7 +8,7 @@
   "main": "src/main.coffee",
   "dependencies": {
     "subtitles-parser": "0.0.2",
-    "lodash": "~2.4.1",
+    "lodash": "~4.17.19",
     "spew": "~0.1.1",
     "underscore.string": "~2.3.3"
   }
